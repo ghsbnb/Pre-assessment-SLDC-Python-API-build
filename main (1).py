@@ -1,3 +1,4 @@
+print('fuck a shit nigga')
 from functions import (
     WeatherAppError,
     format_weather_output,
