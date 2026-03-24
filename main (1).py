@@ -1,4 +1,3 @@
-print('fuck a shit nigga ill fuck you up the ass you pussy bitch faggot nigger retard')
 from functions import (
     WeatherAppError,
     format_weather_output,
